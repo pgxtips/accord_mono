@@ -1,0 +1,9 @@
+[submodule "accord_server"]
+	path = accord_server
+	url = git@github.com:pgxtips/accord_server.git
+[submodule "accord_web_client"]
+	path = accord_web_client
+	url = git@github.com:pgxtips/accord_web_client.git
+[submodule "accord_electron_client"]
+	path = accord_electron_client
+	url = git@github.com:pgxtips/accord_electron_client.git
