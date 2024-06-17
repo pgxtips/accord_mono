@@ -7,3 +7,6 @@
 [submodule "accord_electron_client"]
 	path = accord_electron_client
 	url = git@github.com:pgxtips/accord_electron_client.git
+[submodule "accord_website"]
+	path = accord_website
+	url = git@github.com:pgxtips/accord_website.git
